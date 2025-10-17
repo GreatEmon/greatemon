@@ -52,24 +52,20 @@ I’m a Data Science student at ISRT, University of Dhaka with a strong interest
 
 ---
 
-## GitHub Stats & Activity
+## 📊 GitHub Stats & Activity
 
-* Contributions: ![GitHub contributions](https://github.com/greatemon.png)
-* Top languages & repo stats (use `github-readme-stats` or `github-readme-streak-stats` badges):
+<p align="left">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=greatemon&show_icons=true&theme=tokyonight" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=greatemon&layout=compact&theme=tokyonight" />
+</p>
+<p align="left">
+  <img height="238" src="https://github-readme-activity-graph.vercel.app/graph?username=greatemon&theme=react-dark&area=true&hide_border=true" />
+</p>
 
-```md
-![Emon's GitHub stats](https://github-readme-stats.vercel.app/api?username=greatemon&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=greatemon&layout=compact)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=greatemon&theme=default)
-```
 
-*Replace `your-github-username` with your actual username to render stats.*
-
----
 
 ## Pinned Projects
 
-> Below are suggested pinned repositories you can create/pin. I included ready-to-paste README templates for each repository — replace placeholders and screenshots before pushing.
 
 ### 1) Blood-Donation-App (MERN)
 
