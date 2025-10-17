@@ -2,15 +2,15 @@
 
 <!-- Banner: replace the URL below with your preferred banner image -->
 
-![Banner](https://images.unsplash.com/photo-1508921912186-1d1a45ebb3c1?q=80\&w=1800\&auto=format\&fit=crop)
+![Banner](https://i.ibb.co.com/chnhzRpZ/Maroon-Modern-Software-Developer-Facebook-Cover.jpg)
 
 ---
 
-# Emon Sherkar
+# MD Emon Sherkar
 
 **Data Science Student • MERN / Full‑Stack Developer • Aspiring Freelancer**
 
-> Dhaka, Bangladesh · [emon.yourname@example.com](mailto:emon.yourname@example.com) · +880-1XXXXXXXXX
+> Dhaka, Bangladesh · [contact.emonpro@gmail.com](mailto:contact.emonpro@gmail.com) · +880 1642 526075
 
 ---
 
@@ -25,7 +25,7 @@ I’m a Data Science student at ISRT, University of Dhaka with a strong interest
 * Exploring **Next.js** and modern React patterns.
 * Building a **Tourism website** as a frontend-focused project.
 * Developing a **Blood Donation Application (MERN)** for a course assignment (donor registration, roles, JWT auth, Stripe integration).
-* Learning **3D modeling** and realistic product-video workflows for Enhancetor (perfume brand).
+* Learning **3D modeling** and realistic product-video workflows for perfume brand.
 
 ---
 
@@ -43,29 +43,24 @@ I’m a Data Science student at ISRT, University of Dhaka with a strong interest
 
 ![Python](https://img.shields.io/badge/Python-%233776AB?logo=python\&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-%23150458?logo=pandas\&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-%23013243?logo=numpy\&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23000000?logo=matplotlib\&logoColor=white)
 
-### DevOps & Others
-
-![Git](https://img.shields.io/badge/Git-%23F05032?logo=git\&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-%230db7ed?logo=docker\&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-%232C2F33?logo=linux\&logoColor=white)
-
 ---
 
 ## Social
 
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717?logo=github\&logoColor=white)](https://github.com/your-github-username) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/your-linkedin) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2?logo=twitter\&logoColor=white)](https://twitter.com/your-twitter)
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717?logo=github\&logoColor=white)](https://github.com/greatemon) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/greatemon/) [![Facebook](https://img.shields.io/badge/Facebook-%231DA1F2?logo=facebook\&logoColor=white)](https://www.facebook.com/MeGreatEmon/)
 
-> **Note:** Replace the link placeholders above with your actual profile links.
 
 ---
 
 ## GitHub Stats & Activity
 
-* Contributions: ![GitHub contributions](https://github.com/your-github-username.png)
+* Contributions: ![GitHub contributions](https://github.com/greatemon.png)
 * Top languages & repo stats (use `github-readme-stats` or `github-readme-streak-stats` badges):
 
 ```md
-![Emon's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=default)
+![Emon's GitHub stats](https://github-readme-stats.vercel.app/api?username=greatemon&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=greatemon&layout=compact)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=greatemon&theme=default)
 ```
 
 *Replace `your-github-username` with your actual username to render stats.*
